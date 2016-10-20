@@ -1,16 +1,54 @@
 Archive member included because of file (symbol)
 
 ../libLCD_LIB.a(LCD_LIB.o)    ./LDR.o (lcd_clear)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              ./LDR.o (__addsf3)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./LDR.o (__ltsf2)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              ./LDR.o (__divsf3)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              ./LDR.o (__floatunsisf)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./LDR.o (__mulsf3)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
                               c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o (exit)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
                               ./LDR.o (__do_copy_data)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
                               ./LDR.o (__do_clear_bss)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                              ./LDR.o (dtostrf)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
                               ./LDR.o (snprintf)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
                               c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o) (vfprintf)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o) (dtoa_prf)
+c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o) (__ftoa_engine)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
                               c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
@@ -136,7 +174,7 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0xb2c
+.text           0x00000000     0x16e8
  *(.vectors)
  .vectors       0x00000000       0x68 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
                 0x00000000                __vector_default
@@ -144,40 +182,41 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
  *(.vectors)
  *(.progmem.gcc*)
  *(.progmem*)
-                0x00000068                . = ALIGN (0x2)
-                0x00000068                __trampolines_start = .
+ .progmem.data  0x00000068       0xfa c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x00000162                . = ALIGN (0x2)
+                0x00000162                __trampolines_start = .
  *(.trampolines)
- .trampolines   0x00000068        0x0 linker stubs
+ .trampolines   0x00000162        0x0 linker stubs
  *(.trampolines*)
-                0x00000068                __trampolines_end = .
+                0x00000162                __trampolines_end = .
  *(.jumptables)
  *(.jumptables*)
  *(.lowtext)
  *(.lowtext*)
-                0x00000068                __ctors_start = .
+                0x00000162                __ctors_start = .
  *(.ctors)
-                0x00000068                __ctors_end = .
-                0x00000068                __dtors_start = .
+                0x00000162                __ctors_end = .
+                0x00000162                __dtors_start = .
  *(.dtors)
-                0x00000068                __dtors_end = .
+                0x00000162                __dtors_end = .
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x00000068        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
-                0x00000068                __init
+ .init0         0x00000162        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000162                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x00000068        0xc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ .init2         0x00000162        0xc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x00000074       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
-                0x00000074                __do_copy_data
- .init4         0x0000008a       0x10 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
-                0x0000008a                __do_clear_bss
+ .init4         0x0000016e       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x0000016e                __do_copy_data
+ .init4         0x00000184       0x10 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000184                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
@@ -188,159 +227,247 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x0000009a        0x8 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ .init9         0x00000194        0x8 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
  *(.init9)
  *(.text)
- .text          0x000000a2        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
-                0x000000a2                __vector_22
-                0x000000a2                __vector_1
-                0x000000a2                __vector_24
-                0x000000a2                __vector_12
-                0x000000a2                __bad_interrupt
-                0x000000a2                __vector_6
-                0x000000a2                __vector_23
-                0x000000a2                __vector_25
-                0x000000a2                __vector_11
-                0x000000a2                __vector_13
-                0x000000a2                __vector_17
-                0x000000a2                __vector_19
-                0x000000a2                __vector_7
-                0x000000a2                __vector_5
-                0x000000a2                __vector_4
-                0x000000a2                __vector_9
-                0x000000a2                __vector_2
-                0x000000a2                __vector_21
-                0x000000a2                __vector_15
-                0x000000a2                __vector_8
-                0x000000a2                __vector_10
-                0x000000a2                __vector_16
-                0x000000a2                __vector_18
-                0x000000a2                __vector_20
- .text          0x000000a6        0x0 ./LDR.o
- .text          0x000000a6        0x0 ../libLCD_LIB.a(LCD_LIB.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
- .text          0x000000a6        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
-                0x000000a6                . = ALIGN (0x2)
+ .text          0x0000019c        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+                0x0000019c                __vector_22
+                0x0000019c                __vector_1
+                0x0000019c                __vector_24
+                0x0000019c                __vector_12
+                0x0000019c                __bad_interrupt
+                0x0000019c                __vector_6
+                0x0000019c                __vector_23
+                0x0000019c                __vector_25
+                0x0000019c                __vector_13
+                0x0000019c                __vector_17
+                0x0000019c                __vector_19
+                0x0000019c                __vector_7
+                0x0000019c                __vector_5
+                0x0000019c                __vector_4
+                0x0000019c                __vector_9
+                0x0000019c                __vector_2
+                0x0000019c                __vector_21
+                0x0000019c                __vector_15
+                0x0000019c                __vector_8
+                0x0000019c                __vector_10
+                0x0000019c                __vector_16
+                0x0000019c                __vector_18
+                0x0000019c                __vector_20
+ .text          0x000001a0        0x0 ./LDR.o
+ .text          0x000001a0        0x0 ../libLCD_LIB.a(LCD_LIB.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text          0x000001a0        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000001a0                . = ALIGN (0x2)
  *(.text.*)
  .text.Initialise_Interrupts
-                0x000000a6       0x32 ./LDR.o
-                0x000000a6                Initialise_Interrupts
+                0x000001a0       0x76 ./LDR.o
+                0x000001a0                Initialise_Interrupts
  .text.startup.main
-                0x000000d8       0x96 ./LDR.o
-                0x000000d8                main
+                0x00000216       0xf6 ./LDR.o
+                0x00000216                main
+ .text.__vector_11
+                0x0000030c       0x70 ./LDR.o
+                0x0000030c                __vector_11
  .text.__vector_14
-                0x0000016e       0x5a ./LDR.o
-                0x0000016e                __vector_14
+                0x0000037c       0x5c ./LDR.o
+                0x0000037c                __vector_14
  .text.__vector_3
-                0x000001c8       0x9a ./LDR.o
-                0x000001c8                __vector_3
+                0x000003d8      0x18c ./LDR.o
+                0x000003d8                __vector_3
  .text.ctrl_port_set_bits
-                0x00000262       0x1e ../libLCD_LIB.a(LCD_LIB.o)
+                0x00000564       0x1e ../libLCD_LIB.a(LCD_LIB.o)
  .text.ctrl_port_clear_bits
-                0x00000280       0x20 ../libLCD_LIB.a(LCD_LIB.o)
+                0x00000582       0x20 ../libLCD_LIB.a(LCD_LIB.o)
  .text.enable_bit
-                0x000002a0       0x1e ../libLCD_LIB.a(LCD_LIB.o)
+                0x000005a2       0x1e ../libLCD_LIB.a(LCD_LIB.o)
  .text.lcd_init_write
-                0x000002be       0x12 ../libLCD_LIB.a(LCD_LIB.o)
- .text.lcd_cmd  0x000002d0       0x2a ../libLCD_LIB.a(LCD_LIB.o)
+                0x000005c0       0x12 ../libLCD_LIB.a(LCD_LIB.o)
+ .text.lcd_cmd  0x000005d2       0x2a ../libLCD_LIB.a(LCD_LIB.o)
  .text.lcd_clear
-                0x000002fa       0x18 ../libLCD_LIB.a(LCD_LIB.o)
-                0x000002fa                lcd_clear
+                0x000005fc       0x18 ../libLCD_LIB.a(LCD_LIB.o)
+                0x000005fc                lcd_clear
  .text.lcd_init
-                0x00000312       0x7c ../libLCD_LIB.a(LCD_LIB.o)
-                0x00000312                lcd_init
+                0x00000614       0x7c ../libLCD_LIB.a(LCD_LIB.o)
+                0x00000614                lcd_init
  .text.lcd_display
-                0x0000038e      0x1b0 ../libLCD_LIB.a(LCD_LIB.o)
-                0x0000038e                lcd_display
+                0x00000690      0x1b0 ../libLCD_LIB.a(LCD_LIB.o)
+                0x00000690                lcd_display
+ .text.avr-libc.fplib
+                0x00000840        0xa c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000840                __subsf3
+                0x00000842                __addsf3
+ .text.avr-libc.fplib
+                0x0000084a       0xc0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000864                __addsf3x
+ .text.avr-libc.fplib
+                0x0000090a        0x8 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000090a                __nesf2
+                0x0000090a                __eqsf2
+                0x0000090a                __cmpsf2
+                0x0000090a                __ltsf2
+                0x0000090a                __lesf2
+ .text.avr-libc.fplib
+                0x00000912        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000912                __divsf3
+ .text.avr-libc.fplib
+                0x00000916       0xcc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000092c                __divsf3x
+                0x00000930                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000009e2       0x7a c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000009e2                __floatunsisf
+                0x000009e6                __floatsisf
+ .text.avr-libc.fplib
+                0x00000a5c       0x48 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000a5c                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000aa4        0xc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000aa4                __fp_inf
+ .text.avr-libc.fplib
+                0x00000ab0        0x6 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000ab0                __fp_nan
+ .text.avr-libc.fplib
+                0x00000ab6        0xe c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000ab6                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000ac4        0xe c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000ac4                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000ad2       0x22 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000ad2                __fp_round
+ .text.avr-libc.fplib
+                0x00000af4       0x44 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000af4                __fp_split3
+                0x00000b04                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000b38        0xe c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000b38                __fp_zero
+                0x00000b3a                __fp_szero
+ .text.avr-libc.fplib
+                0x00000b46        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000b46                __mulsf3
+ .text.avr-libc.fplib
+                0x00000b4a       0xc2 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000b5e                __mulsf3x
+                0x00000b62                __mulsf3_pse
  .text.libgcc.mul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .text.libgcc.div
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
- .text.libgcc   0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .text.libgcc.prologue
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .text.libgcc.builtins
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .text.libgcc.fmul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .text.libgcc.mul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .text.libgcc.div
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
- .text.libgcc   0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .text.libgcc.prologue
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .text.libgcc.builtins
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .text.libgcc.fmul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .text.libgcc.mul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.div
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
- .text.libgcc   0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.prologue
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.builtins
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
  .text.libgcc.fmul
-                0x0000053e        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+                0x00000c0c        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
  .text.avr-libc
-                0x0000053e       0x7a c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
-                0x0000053e                snprintf
+                0x00000c0c       0x42 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                0x00000c0c                dtostrf
  .text.avr-libc
-                0x000005b8      0x3ae c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
-                0x000005b8                vfprintf
+                0x00000c4e       0x7a c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+                0x00000c4e                snprintf
  .text.avr-libc
-                0x00000966       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
-                0x00000966                strnlen_P
+                0x00000cc8      0x3ae c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00000cc8                vfprintf
  .text.avr-libc
-                0x0000097c       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
-                0x0000097c                strnlen
+                0x00001076      0x2fc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                0x00001076                dtoa_prf
  .text.avr-libc
-                0x00000992       0x6c c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
-                0x00000992                fputc
+                0x00001372      0x1b0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x00001372                __ftoa_engine
  .text.avr-libc
-                0x000009fe       0xbc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
-                0x000009fe                __ultoa_invert
+                0x00001522       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00001522                strnlen_P
+ .text.avr-libc
+                0x00001538       0x16 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00001538                strnlen
+ .text.avr-libc
+                0x0000154e       0x6c c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000154e                fputc
+ .text.avr-libc
+                0x000015ba       0xbc c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x000015ba                __ultoa_invert
  .text.libgcc.mul
-                0x00000aba        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x00001676        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
  .text.libgcc.div
-                0x00000aba        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
- .text.libgcc   0x00000aba        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x00001676        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00001676        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
  .text.libgcc.prologue
-                0x00000aba       0x38 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
-                0x00000aba                __prologue_saves__
+                0x00001676       0x38 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x00001676                __prologue_saves__
  .text.libgcc.builtins
-                0x00000af2        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x000016ae        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
  .text.libgcc.fmul
-                0x00000af2        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+                0x000016ae        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
  .text.libgcc.mul
-                0x00000af2        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000016ae        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.div
-                0x00000af2        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
- .text.libgcc   0x00000af2        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000016ae        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x000016ae        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.prologue
-                0x00000af2       0x36 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
-                0x00000af2                __epilogue_restores__
+                0x000016ae       0x36 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000016ae                __epilogue_restores__
  .text.libgcc.builtins
-                0x00000b28        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000016e4        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.fmul
-                0x00000b28        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
-                0x00000b28                . = ALIGN (0x2)
+                0x000016e4        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+                0x000016e4                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000b28        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
-                0x00000b28                _exit
-                0x00000b28                exit
+ .fini9         0x000016e4        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+                0x000016e4                _exit
+                0x000016e4                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -359,21 +486,40 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000b28        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .fini0         0x000016e4        0x4 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00000b2c                _etext = .
+                0x000016e8                _etext = .
 
-.data           0x00800100        0xa load address 0x00000b2c
+.data           0x00800100       0x22 load address 0x000016e8
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
  .data          0x00800100        0x0 ./LDR.o
  .data          0x00800100        0x0 ../libLCD_LIB.a(LCD_LIB.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+ .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
  .data          0x00800100        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
@@ -384,53 +530,78 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
  *(.rodata)
  *(.rodata*)
  .rodata.str1.1
-                0x00800100        0xa ./LDR.o
+                0x00800100       0x21 ./LDR.o
  *(.gnu.linkonce.d*)
-                0x0080010a                . = ALIGN (0x2)
-                0x0080010a                _edata = .
-                0x0080010a                PROVIDE (__data_end, .)
+                0x00800122                . = ALIGN (0x2)
+ *fill*         0x00800121        0x1 
+                0x00800122                _edata = .
+                0x00800122                PROVIDE (__data_end, .)
 
-.bss            0x0080010a        0xe
-                0x0080010a                PROVIDE (__bss_start, .)
+.bss            0x00800122       0x18
+                0x00800122                PROVIDE (__bss_start, .)
  *(.bss)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
- .bss           0x0080010a        0x0 ./LDR.o
- .bss           0x0080010a        0x0 ../libLCD_LIB.a(LCD_LIB.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
- .bss           0x0080010a        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00800122        0x0 ./LDR.o
+ .bss           0x00800122        0x0 ../libLCD_LIB.a(LCD_LIB.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_exit.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800122        0x0 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a(_epilogue.o)
  *(.bss*)
- .bss.square2   0x0080010a        0x2 ./LDR.o
- .bss.square1   0x0080010c        0x2 ./LDR.o
- .bss.debounce_count
-                0x0080010e        0x2 ./LDR.o
+ .bss.direction
+                0x00800122        0x2 ./LDR.o
+ .bss.rpm       0x00800124        0x4 ./LDR.o
+ .bss.count     0x00800128        0x2 ./LDR.o
+ .bss.time_count
+                0x0080012a        0x4 ./LDR.o
  .bss.timer_count
-                0x00800110        0x2 ./LDR.o
- .bss.count     0x00800112        0x2 ./LDR.o
- .bss.pin       0x00800114        0x1 ./LDR.o
+                0x0080012e        0x2 ./LDR.o
+ .bss.debounce_count
+                0x00800130        0x2 ./LDR.o
+ .bss.pin       0x00800132        0x1 ./LDR.o
  .bss.previous_pin
-                0x00800115        0x1 ./LDR.o
+                0x00800133        0x1 ./LDR.o
+ .bss.rotation_count
+                0x00800134        0x4 ./LDR.o
  .bss.use_port_b
-                0x00800116        0x2 ../libLCD_LIB.a(LCD_LIB.o)
+                0x00800138        0x2 ../libLCD_LIB.a(LCD_LIB.o)
  *(COMMON)
-                0x00800118                PROVIDE (__bss_end, .)
-                0x00000b2c                __data_load_start = LOADADDR (.data)
-                0x00000b36                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x0080013a                PROVIDE (__bss_end, .)
+                0x000016e8                __data_load_start = LOADADDR (.data)
+                0x0000170a                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x00800118        0x0
-                0x00800118                PROVIDE (__noinit_start, .)
+.noinit         0x0080013a        0x0
+                0x0080013a                PROVIDE (__noinit_start, .)
  *(.noinit*)
-                0x00800118                PROVIDE (__noinit_end, .)
-                0x00800118                _end = .
-                0x00800118                PROVIDE (__heap_start, .)
+                0x0080013a                PROVIDE (__noinit_end, .)
+                0x0080013a                _end = .
+                0x0080013a                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
  *(.eeprom*)
@@ -471,8 +642,10 @@ LOAD c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/avr5\libgcc.a
  .comment       0x00000000       0x11 ./LDR.o
                                  0x12 (size before relaxing)
  .comment       0x00000000       0x12 ../libLCD_LIB.a(LCD_LIB.o)
+ .comment       0x00000000       0x12 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtostrf.o)
  .comment       0x00000000       0x12 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(snprintf.o)
  .comment       0x00000000       0x12 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .comment       0x00000000       0x12 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
  .comment       0x00000000       0x12 c:/program files (x86)/mhv avr tools/bin/../lib/gcc/avr/4.7.1/../../../../avr/lib/avr5\libc.a(fputc.o)
 
 .debug
